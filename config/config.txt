@@ -1,0 +1,40 @@
+% Configuration File
+%
+%   The configuration file should be formatted as follows:
+%       Each parameter should be specified on a separate line in the format:
+%           paramName: paramValue
+%       Blank lines and lines starting with '%' are ignored
+
+% set logs path and names
+log_path: 'logs/'
+    log1: 'log_'
+    log2: 'ddmmyyyy'
+    log3: '.txt'
+
+% set results path and names
+res_path: 'results/'
+    res1: 'SimulationErrors.csv'
+    res2: 'OptimalParameters.csv'
+    res3: 'NoisySpeechErrors.csv'
+
+% set plot path and names
+plot_path: 'plots/'
+    fig1: 'SimulationPerformance.png'
+    fig2: 'SimulationConvergence.png'
+    fig3: 'OptimalParameters.png'
+    fig4: 'NoisySpeechPerformance.png'
+    fig5: 'NoisySpeechConvergence.png'
+    fig6: 'NoisySpeechComparisons.png'
+
+% set data path and names
+data_path: 'data/'
+    data1: 'speech.mat'
+    data2: 'noise.mat'
+    data3: 'bpir.mat'
+    data4: 'rec.mat'
+
+% set image path and names
+image_path: 'images/'
+    image1: 'ActiveNoiseCancellation.png'
+    image2: 'run.png'
+    image3: 'exit.png'
