@@ -199,3 +199,13 @@ This project demonstrates:
 * Realistic DSP implementation considerations.
 
 > 📌 **This repository serves as a strong foundation for further research in audio signal processing, hearing aid technologies, and embedded DSP-based ANC systems.**
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+You are free to:
+* **Share** — copy and redistribute the material in any medium or format.
+* **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
